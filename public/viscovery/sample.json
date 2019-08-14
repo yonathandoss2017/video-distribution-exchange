@@ -1,0 +1,57 @@
+{
+   "requestID": "fce5b769a4ea656540c834fc1114acc3a63a519a",
+   "info": {
+        "type": "video"
+   },
+   "category": {
+        "object" : {
+            "frameResultList": [
+                {
+                    "time": "00:00:01.5",
+                    "results": [
+                        {
+                            "rect": "0,0,1280,720",
+                            "candidateList": [
+                                {
+                                    "candidate": {
+                                        "class_id": "34",
+                                        "class_name": "car",
+                                        "class_confidence": 0.999999880791
+                                    }
+                                },
+                                {
+                                    "candidate": {
+                                        "class_id": "31",
+                                        "class_name": "smart_phone",
+                                        "class_confidence": 0.0000000649156675081
+                                    }
+                                },
+                                {
+                                    "candidate": {
+                                        "class_id": "12",
+                                        "class_name": "suit",
+                                        "class_confidence": 0.00000000101226937943
+                                    }
+                                },
+                                {
+                                    "candidate": {
+                                        "class_id": "26",
+                                        "class_name": "tie",
+                                        "class_confidence": 0.0000000000631885987978
+                                    }
+                                },
+                                {
+                                    "candidate": {
+                                        "class_id": "11",
+                                        "class_name": "earrings",
+                                        "class_confidence": 0.000000000340474065608
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

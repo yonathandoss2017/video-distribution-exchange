@@ -1,0 +1,147 @@
+body {
+	background: #eceef1;
+    color: #5e5f60;
+}
+nav.header {
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 10px 0;
+}
+img {
+    width: 100%;
+}
+img.logo  {
+    width: auto;
+    height: 42px;
+}
+h1 {
+    color: #111;
+    margin-bottom: 0;
+    line-height: 2.5rem;
+}
+h5 {
+    margin: 1rem 0;
+}
+.container {
+	background: #fff;
+}
+.p-a-30 {
+    padding: 30px;
+}
+.m-l-30 {
+    margin-left: 30px;
+}
+.container.header {
+    padding: 25px 30px;
+    border-bottom: 1px solid #eceef1;
+}
+.container-row {
+    padding: 35px 15px 30px;
+    border-bottom: 1px solid #eceef1;
+}
+.container.footer {
+    background-color: #eceef1;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.form-group.row {
+    margin-bottom: 30px;
+}
+.form-group label {
+    font-weight: 500;
+    margin: 6px 0;
+}
+.hidden {
+    display: none;
+}
+.text-center {
+    text-align: center;
+}
+.table-hover tbody tr:hover {
+    background-color: rgba(0,0,0,.03);
+}
+table {
+    border-bottom: 1px solid #eceeef;
+    border-left: 1px solid #eceeef;
+}
+table td {
+    border-right: 1px solid #eceeef;
+}
+table th {
+    border-right: 1px solid #e0e0e0;
+}
+.dropdown.user{
+    float: right;
+    line-height: 50px;
+}
+.dropdown-menu {
+    min-width: initial;
+    right: 0;
+    left: initial;
+}
+.dropdown-menu > li > a {
+    display: block;
+    padding: 3px 20px;
+    margin: 0;
+    font-weight: normal;
+    line-height: 1.6;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    color: #262626;
+    background-color: #f5f5f5;
+}
+select {
+    padding: 2px;
+    font-size: 15px;
+    border: 1px solid #ddd;
+    vertical-align: middle;
+}
+.modal {
+    text-align: center;
+}
+.modal:before {
+    display: inline-block;
+    vertical-align: middle;
+    content: " ";
+    height: 100%;
+}
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+  width: 80%;
+}
+.float-left {
+    float: left;
+}
+.top-menu > .link {
+    padding: 14px;
+    float: left;
+}
+input[type="checkbox"] {
+    transform: scale(1.6);
+    margin-left: 0.3rem;
+}
+.container.errors {
+    padding-bottom: 0;
+}
+.table td, .table thead th {
+    vertical-align: middle;
+}
+.pagination {
+    margin: 0;
+    float: right;
+}
+.actions > a{
+    margin: 1px 5px 0 0;
+}
+.container {
+    width: 1350px;
+}
+div.checkbox {
+    padding-top: 8px;
+}
+/* Customizations begins here */
+.import_recent_count {
+    display: none;
+}

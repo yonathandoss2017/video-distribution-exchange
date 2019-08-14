@@ -1,0 +1,299 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 160px;
+  font-family: 'Open Sans', sans-serif;
+  background: #f4f4f4;
+  color: #666666;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 80px;
+  line-height: 80px; /* Vertically center the text there */
+  background-color: #eaeaea;
+  font-size: 12px;
+  color: #888888;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+ .fix{
+    position:fixed;
+    bottom:0px;
+    left:50%;
+}
+	
+.left-panel h1 {
+	color: #ba0133;
+	font-weight: 600;
+	margin: 8px 0px;
+}
+
+.left-panel {
+	margin-top: 50px;
+}
+
+.logo {padding: 24px 0;}
+
+.input-title:first-child {
+	font-size: 21px;
+	margin: 26px 0px 0px;
+}
+
+.input-title {
+	font-size: 21px;
+	margin: 8px 0px 0px;
+}
+
+.left-panel input.sitename[type="text"], .left-panel input[type="password"], .left-panel input[type="email"]{
+    width: 100%;
+    padding: 12px 10px;
+    background: #FFF;
+    margin: 7px 0;
+    font-size: 14px;
+    outline: none;
+    color: #888;
+    border: solid 1px #d5d5d5;
+	border-radius: 5px;
+	font-size: 15px;
+}
+
+.left-panel input.url {
+	width: 59%;
+	 padding: 12px 10px;
+    background: #FFF;
+    margin: 7px 0;
+    font-size: 14px;
+    outline: none;
+    color: #888;
+    border: solid 1px #d5d5d5;
+	border-radius: 5px;
+	font-size: 15px;
+}
+
+input::-webkit-input-placeholder {
+color: #a9a9a9;
+	font-style: italic; 
+}
+ 
+input:-moz-placeholder { /* Firefox 18- */
+color: #a9a9a9;
+	font-style: italic; 
+}
+ 
+input::-moz-placeholder {  /* Firefox 19+ */
+color: #a9a9a9;
+	font-style: italic; 
+}
+ 
+input:-ms-input-placeholder {  
+color: #a9a9a9;
+	font-style: italic; 
+}
+
+a.button {
+   color: #fff;
+   font-size: 14px;
+   padding: 8px 36px;
+   background-color: #ba0133;
+   border-radius: 5px;
+   text-decoration: none;
+   transition: 0.5s all;
+   float: right;
+   margin-top: 35px;
+}
+
+a.button:hover {background: #888;}
+
+p.url-input {
+    position: fixed;
+    font-size: 13px;
+    bottom: 700px;
+    padding-left: 145px;
+}
+
+p.name-input {
+    position: fixed;
+    font-size: 9.5px;
+	font-weight: bold;
+	color: #000;
+    bottom: 591px;
+    padding-left: 122px;
+}
+
+.youtube-detail{
+	font-size: 15px;
+	width: 100%;
+}
+
+.form-control.playlist{
+	font-size: 15px;
+	width: 88px;
+	background-color: #f4f4f4;
+	height: 32px !important;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	color: #666;
+}
+
+.youtube-detail .text {
+  display: block;
+  padding-left: 26px;
+  margin-bottom: 0px;
+}
+
+.youtube-detail td {
+	padding: 10px 0px;
+}
+
+.checkbox {
+	width: 16px;
+	margin: 0px 10px 0px 0px;
+	position: relative;
+	float: left;
+}
+
+.checkbox label {
+	cursor: pointer;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	top: 3px;
+  	left: 0;
+	background: #f4f4f4;
+	border:1px solid #d5d5d5;
+	border-radius: 3px;
+}
+
+.checkbox label:after {
+	opacity: 0.2;
+	content: '';
+	position: absolute;
+	width: 10px;
+	height: 7px;
+	background: transparent;
+	top: 3px;
+	left: 2px;
+	border: 3px solid #333;
+	border-top: none;
+	border-right: none;
+	transform: rotate(-45deg);
+}
+
+.checkbox label:hover::after {
+	opacity: 0.5;
+}
+
+.checkbox input[type=checkbox]:checked + label:after {
+	opacity: 1;
+}
+
+.button.facebook {
+	color: #fff;
+	background: #4267b2;
+	margin-bottom: 25px;
+}
+
+.button.skip {
+	color: #666;
+	background: #d5d5d5;
+}
+
+.facebook-login {margin: 20px 0px;}
+
+.facebook-login.account {float:left;}
+
+.form-control.fb{
+	font-size: 15px;
+	width: 100%;
+	background-color: #f4f4f4;
+	height: 32px !important;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	color: #666;
+}
+
+.button.fb-sign-up {
+	color: #fff;
+	background: #4267b2;
+	margin-bottom: 14px;
+	margin-top: 25px;
+	float: right;
+}
+
+a.link {
+	color: #ba0133;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.android {
+	background: #fff;
+	padding: 20px;
+	margin: 38px 0px;
+	color: #666;
+	font-size: 21px;
+}
+
+.android .button {margin-top: -3px;}
+.android .button.download {display:none;}
+@media (min-width: 1200px){
+.container {
+    width: 1170px;
+    max-width: 100%;
+}}
+
+@media (min-width: 1024px) {
+	.left-panel h1{
+	font-size: 50px;	
+	line-height: 60px;	
+}
+}
+
+@media (min-width: 992px) {
+	.left-panel {
+	width: 448px;
+	margin-top: 22%;
+}
+}
+
+@media (max-width: 991px) {
+	.left-panel input.url {
+		width: 82%;
+}
+	.col-md-6.image{display: none;}
+	.col-md-6.content{width: 100%;flex: 0 0 100%;max-width: 100%;}
+}
+
+
+@media (max-width: 450px) {
+	.android .button {display:none;}
+	.android .button.download{
+	display: block;
+    float: none;
+    text-align: center;
+    margin: 20px 0px 0px;
+		}
+		
+	.button.fb-sign-up{
+	display: block;
+    float: none;
+    text-align: center;
+	margin-bottom: 25px;
+	}
+	
+	.facebook-login.account {
+	float: none;
+	}
+}

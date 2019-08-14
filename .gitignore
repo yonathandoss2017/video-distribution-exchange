@@ -1,0 +1,24 @@
+/node_modules
+/public/storage
+/public/js/marketplace/search.js
+/public/js/marketplace/video.js
+/public/js/marketplace/marketplace.js
+/public/js/marketplace/*.chunk.js
+/public/js/distribution-playlist.js
+/public/js/app.js
+/resources/assets/js/vue-i18n-locales.generated.js
+/public/mix-manifest.json
+/vendor
+/.idea
+#visual studio code
+/.vscode
+Homestead.json
+Homestead.yaml
+.env
+.php_cs.cache
+oracle.sqlite
+google_client_secrets.json
+.env.production
+.env.staging
+public/images/app
+resources/lang

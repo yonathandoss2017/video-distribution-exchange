@@ -1,0 +1,2723 @@
+{
+  "category": {
+    "celebrity_korean": {
+      "frameResultList": [
+        {
+          "results": [
+            {
+              "rect": "623,103,183,290",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:15.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "673,103,175,290",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:16.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "698,78,199,331",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:17.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "978,0,281,664",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:18.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "948,0,309,621",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:19.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "874,10,346,583",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:20.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "866,5,326,694",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:21.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "521,144,199,247",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:27.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "527,139,199,252",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:28.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "463,2,296,613",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:31.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "496,57,230,611",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:32.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "371,113,301,594",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:34.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "683,114,173,273",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:35.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "686,96,228,312",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:36.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "462,159,195,260",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:39.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "459,164,172,253",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:40.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "443,133,187,275",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:41.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "456,180,168,235",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:42.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "626,142,174,261",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:43.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "624,162,172,246",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:44.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "260,0,355,651",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:45.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "309,0,305,670",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:00:46.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "306,193,204,298",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:20.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "300,194,216,311",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:21.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "310,245,212,320",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:22.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "836,215,241,317",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:27.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "779,184,260,324",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:28.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "770,193,251,311",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:29.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "782,0,339,727",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:31.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "774,25,352,659",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:32.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "363,172,223,299",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "yoo_in_na",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:33.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "370,153,227,326",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "yoo_in_na",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:34.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "398,181,211,328",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "yoo_in_na",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:35.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "754,51,368,599",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:43.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "741,0,341,634",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:45.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "725,0,365,618",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:46.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "679,9,329,686",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:47.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "656,23,340,675",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:01:48.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "535,140,199,255",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:03.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "527,148,192,238",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:04.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "540,225,142,194",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:16.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "538,236,123,149",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:17.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "1143,240,108,128",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:28.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "433,155,247,290",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:30.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "348,223,206,351",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:36.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "313,171,221,383",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:37.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "309,149,241,418",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:38.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "568,186,265,338",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:47.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "574,197,252,302",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:48.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "571,191,255,313",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:49.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "156,234,207,346",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:50.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "138,197,230,341",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:51.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "260,194,220,357",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:53.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "255,235,217,337",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:54.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "576,177,202,286",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:55.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "432,171,276,340",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:56.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "422,160,285,361",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:57.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "425,171,278,341",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "gong_yoo",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:02:58.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "562,181,275,385",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:03:-1.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "554,191,259,352",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:03:00.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "254,252,211,334",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:03:05.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "210,298,201,317",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:03:06.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "152,301,228,331",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:03:07.5"
+        },
+        {
+          "results": [
+            {
+              "rect": "115,258,182,349",
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_name": "kim_go_eun",
+                    "class_confidence": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "time": "00:03:08.5"
+        }
+      ]
+    },
+    "object": {
+      "frameResultList": [
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7670041918754578,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7670041918754578,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "626,0,498,720"
+            },
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2194",
+                    "class_confidence": 0.774937093257904,
+                    "brand_name": "baseball_cap",
+                    "brand_id": "2194",
+                    "brand_confidence": 0.774937093257904,
+                    "class_name": "baseball_cap"
+                  }
+                }
+              ],
+              "rect": "703,0,334,164"
+            }
+          ],
+          "time": "00:00:04.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7570210099220276,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7570210099220276,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "15,77,1049,561"
+            }
+          ],
+          "time": "00:00:09.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7447955012321472,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7447955012321472,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "140,94,945,533"
+            }
+          ],
+          "time": "00:00:12.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9995455145835876,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9995455145835876,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "303,101,821,534"
+            }
+          ],
+          "time": "00:00:13.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9912614822387695,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9912614822387695,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "410,81,821,564"
+            }
+          ],
+          "time": "00:00:14.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7578127980232239,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7578127980232239,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "745,0,535,707"
+            }
+          ],
+          "time": "00:00:18.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7267166376113892,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7267166376113892,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "731,0,549,692"
+            }
+          ],
+          "time": "00:00:20.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8910412192344666,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8910412192344666,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "659,13,621,701"
+            }
+          ],
+          "time": "00:00:21.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2146",
+                    "class_confidence": 0.7613024711608887,
+                    "brand_name": "tie",
+                    "brand_id": "2146",
+                    "brand_confidence": 0.7613024711608887,
+                    "class_name": "tie"
+                  }
+                }
+              ],
+              "rect": "610,388,50,80"
+            }
+          ],
+          "time": "00:00:24.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9194691181182861,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9194691181182861,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "285,68,649,576"
+            }
+          ],
+          "time": "00:00:27.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9466174840927124,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9466174840927124,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "297,67,639,568"
+            }
+          ],
+          "time": "00:00:28.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7206922769546509,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7206922769546509,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "706,213,142,354"
+            }
+          ],
+          "time": "00:00:29.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.6518747210502625,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.6518747210502625,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "711,211,136,357"
+            }
+          ],
+          "time": "00:00:30.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7915677428245544,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7915677428245544,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "143,90,643,560"
+            }
+          ],
+          "time": "00:00:40.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9195554852485657,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9195554852485657,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "146,92,652,546"
+            }
+          ],
+          "time": "00:00:41.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9804881811141968,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9804881811141968,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "152,92,565,541"
+            }
+          ],
+          "time": "00:00:42.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9976562261581421,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9976562261581421,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "356,110,726,513"
+            }
+          ],
+          "time": "00:00:43.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9954280853271484,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9954280853271484,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "518,110,612,507"
+            }
+          ],
+          "time": "00:00:44.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9461340308189392,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9461340308189392,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "196,90,874,539"
+            }
+          ],
+          "time": "00:00:59.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9717522859573364,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9717522859573364,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "54,101,688,567"
+            }
+          ],
+          "time": "00:01:20.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.989540159702301,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.989540159702301,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "35,83,669,601"
+            }
+          ],
+          "time": "00:01:21.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.913192868232727,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.913192868232727,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "71,98,683,538"
+            }
+          ],
+          "time": "00:01:22.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9760388731956482,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9760388731956482,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "514,192,311,444"
+            }
+          ],
+          "time": "00:01:23.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.6786286234855652,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.6786286234855652,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "512,196,294,442"
+            }
+          ],
+          "time": "00:01:24.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9782076478004456,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9782076478004456,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "392,181,308,459"
+            }
+          ],
+          "time": "00:01:25.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.6914840936660767,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.6914840936660767,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "714,0,566,711"
+            }
+          ],
+          "time": "00:01:30.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9489428997039795,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9489428997039795,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "624,14,656,705"
+            }
+          ],
+          "time": "00:01:31.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8445867896080017,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8445867896080017,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "600,8,680,709"
+            }
+          ],
+          "time": "00:01:32.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9981409311294556,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9981409311294556,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "82,132,751,492"
+            }
+          ],
+          "time": "00:01:33.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9634966254234314,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9634966254234314,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "86,122,847,536"
+            }
+          ],
+          "time": "00:01:34.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9516347646713257,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9516347646713257,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "106,125,782,535"
+            }
+          ],
+          "time": "00:01:35.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9472844004631042,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9472844004631042,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "142,106,1003,527"
+            }
+          ],
+          "time": "00:01:37.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8838956356048584,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8838956356048584,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "313,138,258,486"
+            }
+          ],
+          "time": "00:01:38.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9683477878570557,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9683477878570557,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "330,131,260,484"
+            }
+          ],
+          "time": "00:01:39.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9968928098678589,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9968928098678589,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "147,137,761,474"
+            }
+          ],
+          "time": "00:01:40.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9984431862831116,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9984431862831116,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "143,118,806,510"
+            }
+          ],
+          "time": "00:01:41.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7903460264205933,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7903460264205933,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "495,0,785,720"
+            }
+          ],
+          "time": "00:01:43.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.6117572784423828,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.6117572784423828,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "531,7,749,706"
+            }
+          ],
+          "time": "00:01:46.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7163159251213074,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7163159251213074,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "564,0,716,720"
+            }
+          ],
+          "time": "00:01:47.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8056510090827942,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8056510090827942,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "50,91,539,541"
+            },
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.6884979605674744,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.6884979605674744,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "763,215,502,417"
+            }
+          ],
+          "time": "00:01:52.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7252600193023682,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7252600193023682,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "475,102,730,543"
+            },
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.6653801798820496,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.6653801798820496,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "107,52,637,581"
+            }
+          ],
+          "time": "00:01:54.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8304544687271118,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8304544687271118,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "181,85,928,584"
+            }
+          ],
+          "time": "00:01:55.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9377253651618958,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9377253651618958,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "1041,228,234,407"
+            }
+          ],
+          "time": "00:02:01.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9972864389419556,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9972864389419556,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "221,97,769,522"
+            }
+          ],
+          "time": "00:02:03.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9962413311004639,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9962413311004639,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "157,97,833,517"
+            }
+          ],
+          "time": "00:02:04.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.6616105437278748,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.6616105437278748,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "542,33,730,687"
+            },
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2194",
+                    "class_confidence": 0.6356925964355469,
+                    "brand_name": "baseball_cap",
+                    "brand_id": "2194",
+                    "brand_confidence": 0.6356925964355469,
+                    "class_name": "baseball_cap"
+                  }
+                }
+              ],
+              "rect": "528,5,490,199"
+            }
+          ],
+          "time": "00:02:07.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8101008534431458,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8101008534431458,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "308,13,965,707"
+            }
+          ],
+          "time": "00:02:09.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.6693004965782166,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.6693004965782166,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "461,11,819,709"
+            }
+          ],
+          "time": "00:02:10.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.6794719099998474,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.6794719099998474,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "467,11,805,709"
+            }
+          ],
+          "time": "00:02:11.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8670443296432495,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8670443296432495,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "85,317,154,322"
+            }
+          ],
+          "time": "00:02:12.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.6598677039146423,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.6598677039146423,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "249,169,795,452"
+            }
+          ],
+          "time": "00:02:16.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8919745683670044,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8919745683670044,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "699,106,249,527"
+            },
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.607306957244873,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.607306957244873,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "449,154,267,384"
+            }
+          ],
+          "time": "00:02:26.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7302253246307373,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7302253246307373,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "745,124,213,493"
+            }
+          ],
+          "time": "00:02:27.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9502643942832947,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9502643942832947,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "903,139,377,518"
+            }
+          ],
+          "time": "00:02:28.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9145513772964478,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9145513772964478,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "34,113,566,515"
+            }
+          ],
+          "time": "00:02:29.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9877768754959106,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9877768754959106,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "292,92,789,541"
+            }
+          ],
+          "time": "00:02:30.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8032124042510986,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8032124042510986,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "665,84,253,571"
+            }
+          ],
+          "time": "00:02:31.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.965154230594635,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.965154230594635,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "685,72,260,563"
+            }
+          ],
+          "time": "00:02:32.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8722191452980042,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8722191452980042,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "680,68,252,572"
+            }
+          ],
+          "time": "00:02:33.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9709752798080444,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9709752798080444,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "620,131,342,496"
+            }
+          ],
+          "time": "00:02:42.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9709005355834961,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9709005355834961,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "618,124,336,501"
+            }
+          ],
+          "time": "00:02:43.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8613877892494202,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8613877892494202,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "87,72,1177,595"
+            }
+          ],
+          "time": "00:02:44.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9455541968345642,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9455541968345642,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "69,75,1201,587"
+            }
+          ],
+          "time": "00:02:45.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9344284534454346,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9344284534454346,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "60,76,1194,603"
+            }
+          ],
+          "time": "00:02:46.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9216190576553345,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9216190576553345,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "316,102,767,505"
+            }
+          ],
+          "time": "00:02:47.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9272916913032532,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9272916913032532,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "348,97,721,502"
+            }
+          ],
+          "time": "00:02:48.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9814941883087158,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9814941883087158,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "294,107,791,491"
+            }
+          ],
+          "time": "00:02:49.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2194",
+                    "class_confidence": 0.6513576507568359,
+                    "brand_name": "baseball_cap",
+                    "brand_id": "2194",
+                    "brand_confidence": 0.6513576507568359,
+                    "class_name": "baseball_cap"
+                  }
+                }
+              ],
+              "rect": "610,3,351,188"
+            }
+          ],
+          "time": "00:02:51.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2194",
+                    "class_confidence": 0.6173049211502075,
+                    "brand_name": "baseball_cap",
+                    "brand_id": "2194",
+                    "brand_confidence": 0.6173049211502075,
+                    "class_name": "baseball_cap"
+                  }
+                }
+              ],
+              "rect": "717,1,352,188"
+            }
+          ],
+          "time": "00:02:53.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9009093046188354,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9009093046188354,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "267,100,752,508"
+            }
+          ],
+          "time": "00:02:55.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.7636483907699585,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.7636483907699585,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "161,101,644,540"
+            }
+          ],
+          "time": "00:02:56.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8932729959487915,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8932729959487915,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "139,107,702,569"
+            }
+          ],
+          "time": "00:02:57.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.936241865158081,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.936241865158081,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "92,82,776,561"
+            }
+          ],
+          "time": "00:02:58.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9274283647537231,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9274283647537231,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "386,104,657,517"
+            }
+          ],
+          "time": "00:02:59.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.9785841107368469,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.9785841107368469,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "409,101,607,536"
+            }
+          ],
+          "time": "00:03:00.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2138",
+                    "class_confidence": 0.8696427345275879,
+                    "brand_name": "person",
+                    "brand_id": "2138",
+                    "brand_confidence": 0.8696427345275879,
+                    "class_name": "person"
+                  }
+                }
+              ],
+              "rect": "448,100,721,603"
+            },
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2194",
+                    "class_confidence": 0.9450798630714417,
+                    "brand_name": "baseball_cap",
+                    "brand_id": "2194",
+                    "brand_confidence": 0.9450798630714417,
+                    "class_name": "baseball_cap"
+                  }
+                }
+              ],
+              "rect": "619,104,204,142"
+            }
+          ],
+          "time": "00:03:10.5"
+        }
+      ]
+    },
+    "scene": {
+      "frameResultList": [
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2617",
+                    "class_name": "interior_car",
+                    "class_confidence": 0.9758611917495728
+                  }
+                }
+              ],
+              "rect": "0,0,640,480"
+            }
+          ],
+          "time": "00:00:26.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2617",
+                    "class_name": "interior_car",
+                    "class_confidence": 0.9736379981040955
+                  }
+                }
+              ],
+              "rect": "0,0,640,480"
+            }
+          ],
+          "time": "00:00:27.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2617",
+                    "class_name": "interior_car",
+                    "class_confidence": 1
+                  }
+                }
+              ],
+              "rect": "0,0,640,480"
+            }
+          ],
+          "time": "00:01:50.5"
+        },
+        {
+          "results": [
+            {
+              "candidateList": [
+                {
+                  "candidate": {
+                    "class_id": "2617",
+                    "class_name": "interior_car",
+                    "class_confidence": 1
+                  }
+                }
+              ],
+              "rect": "0,0,640,480"
+            }
+          ],
+          "time": "00:01:51.5"
+        }
+      ]
+    }
+  },
+  "info": {
+    "version": "v1.5",
+    "type": "video"
+  },
+  "requestID": "98a5b27f07ff08a552aa3bd7746c0cc9"
+}

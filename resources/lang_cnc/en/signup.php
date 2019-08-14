@@ -1,0 +1,32 @@
+<?php
+
+return [
+    //signup page
+    'register_account' => 'Register Account',
+    'organization_name' => 'Organization Name',
+    'organization_address' => 'Organization Address',
+    'organization_country' => 'Organization Country',
+    'email_address' => 'Email Address',
+    'password' => 'Password',
+    'i_agree_to_the_terms_and_conditions' => 'I agree to the terms and conditions',
+    'register' => 'Register',
+    'already_have_an_account' => 'Already have an account?',
+    'login' => 'Login',
+    'oops' => 'Oops!',
+    'error' => 'There is an error with your submission.',
+    'success' => 'Success!',
+    'get_email' => 'Password reset email is sent to your mailbox. Please check.',
+    'invalid_token' => 'Invalid activation token. Please contact support for more information.',
+    'well_done' => 'Well done!',
+    'successful_activate' => 'You have successfully activated your account.',
+    'account_login' => 'Account Login',
+    'remember_me' => 'Remember Me',
+    'forgotten_password' => 'Forgotten password',
+    'email' => 'Email Address',
+    'account_registration' => 'Account Registration',
+    'ivideo_marketplace_requires_an_active_account' => 'CNC Video Exchange Marketplace requires an active account to access.',
+    'for_more_information' => 'For more information, please contact',
+    'user' => 'CNC User',
+    'register_success' => 'Successfully Registered',
+    'no_user_right' => 'Your account does not have any permissions set and cannot be logged in.',
+];

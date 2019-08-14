@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'age_groups' => 'Age Groups',
+    'average_view_time' => 'Average View Time',
+    'bandwidth' => 'Bandwidth',
+    'browsers' => 'Browsers',
+    'content_providers' => 'Content Providers',
+    'date_from' => 'Date From',
+    'date_to' => 'Date To',
+    'device_categories' => 'Device Categories',
+    'export_to_xls' => 'Export To XLS',
+    'new_returning' => 'New vs Returning',
+    'new_visitor' => 'New Visitor',
+    'page_title' => 'Analytics',
+    'returning_visitor' => 'Returning Visitor',
+    'social_networks' => 'Social Networks',
+    'tod_10_videos' => 'Top 10 Videos',
+    'top_10_cp' => 'Top 10 CP',
+    'top_10_playlists' => 'Top 10 Playlists',
+    'total_playlists' => 'Total Playlists',
+    'total_videos' => 'Total videos',
+    'video_views' => 'Video Views',
+    'video_views' => 'Video Views',
+    'video_views_complete' => 'Video Views (Complete)',
+    'video_views_midpoint' => 'Video Views (Midpoint)',
+    'views' => 'Views',
+];

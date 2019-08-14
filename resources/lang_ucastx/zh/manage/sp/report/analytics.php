@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'age_groups' => '年龄组',
+    'average_view_time' => '平均观看时长',
+    'bandwidth' => '带宽',
+    'browsers' => '浏览器',
+    'content_providers' => '媒资账户',
+    'date_from' => '日期开始从',
+    'date_to' => '到',
+    'device_categories' => '设备分类',
+    'export_to_xls' => '导出为XLS',
+    'new_returning' => '新访问者 vs 回访者',
+    'new_visitor' => '新访问者',
+    'page_title' => '数据分析',
+    'returning_visitor' => '回访者',
+    'social_networks' => '社交媒体',
+    'tod_10_videos' => '前10视频',
+    'top_10_cp' => '前10媒资方',
+    'top_10_playlists' => '前10内容列表',
+    'total_playlists' => '所有内容列表',
+    'total_videos' => '所有视频',
+    'video_views' => '视频观看量',
+    'video_views' => '视频观看量',
+    'video_views_complete' => '视频观看量 (完整观看)',
+    'video_views_midpoint' => '视频观看量(部分观看)',
+    'views' => '观看量',
+];

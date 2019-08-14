@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit backupGlobals="false"
+         printerClass="Codedungeon\PHPUnitPrettyResultPrinter\Printer"
+         backupStaticAttributes="false"
+         bootstrap="vendor/autoload.php"
+         colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         processIsolation="false"
+         stopOnFailure="false">
+    <testsuites>
+        <testsuite name="Application Test Suite">
+            <directory suffix="Test.php">./tests</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist processUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">./app</directory>
+        </whitelist>
+    </filter>
+    <php>
+        <env name="APP_ENV" value="testing"/>
+        <env name="CACHE_DRIVER" value="array"/>
+        <env name="SESSION_DRIVER" value="array"/>
+        <env name="QUEUE_DRIVER" value="sync"/>
+        <env name="DB_CONNECTION" value="mysql_cx"/>
+        <env name="DB_DATABASE" value=":memory:"/>
+        <env name="MAIL_DRIVER" value="log"/>
+        <env name="X_IVSENSE_API_KEY" value="123456"/>
+        <env name="X_IVSENSE_API_TOKEN" value="123456"/>
+        <env name="SOLR_SYNC_ACTIVE" value="false"/>
+        
+    </php>
+</phpunit>

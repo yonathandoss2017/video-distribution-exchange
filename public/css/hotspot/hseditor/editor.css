@@ -1,0 +1,372 @@
+.hotspot-thumbnail-parent {
+    max-width: 390px;
+}
+
+.hotspot-thumbnail {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+/* Global handle styles */
+.ui-resizable-handle { position: absolute; display: none; 
+/* font-size: 0.1px; */
+ }
+.ui-resizable .ui-resizable-handle { display: block; }
+/* not sure about this one */
+body .ui-resizable-disabled .ui-resizable-handle { display: none; } /* use 'body' to make it more specific (css order) */
+body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body' to make it more specific (css order) */
+
+.ui-resizable-se { cursor: se-resize; width: 20px; height: 20px; right: 0px; bottom: 0px; background: transparent url(../../../images/hotspot/hseditor/resize_diagonal_315.png); }
+.ui-resizable-sw { cursor: sw-resize; width: 20px; height: 20px; left: 0px; bottom: 0px; background: transparent url(../../../images/hotspot/hseditor/resize_diagonal_45.png); }
+.ui-resizable-nw { cursor: nw-resize; width: 20px; height: 20px; left: 0px; top: 0px; background: transparent url(../../../images/hotspot/hseditor/resize_diagonal_315.png); }
+.ui-resizable-ne { cursor: ne-resize; width: 20px; height: 20px; right: 0px; top: 0px; background: transparent url(../../../images/hotspot/hseditor/resize_diagonal_45.png); }
+
+/*
+.ui-resizable-n { cursor: n-resize; 
+    top: 0px;
+    width: 20px; height: 20px; background: transparent url(../../../images/hotspot/hseditor/resize_vertical.png); }
+.ui-resizable-e { cursor: e-resize; 
+    right: 0px;
+    width: 20px; height: 20px; background: transparent url(../../../images/hotspot/hseditor/resize_horizontal.png); }
+.ui-resizable-s { cursor: s-resize; 
+    bottom: 0px;
+    width: 20px; height: 20px; background: transparent url(../../../images/hotspot/hseditor/resize_vertical.png); }
+.ui-resizable-w { cursor: w-resize; 
+    left 0px;
+    width: 20px; height: 20px; background: transparent url(../../../images/hotspot/hseditor/resize_horizontal.png); }
+*/
+
+/* #hse_graphicsPanel {
+    width: 200px !important;
+}*/
+.adgraphics_img {
+    width: initial; !important;
+    padding: 2px;
+    border: 2px solid #e0e0e0;
+    height: auto;
+}
+
+.tiny_adgraphics_img {
+    width: initial; !important;
+    padding: 2px;
+    border: 2px solid #e0e0e0;
+}
+
+.tooltip-inner  {
+    min-width:300px;
+    text-align: left;
+
+}
+
+.spaceAbove {
+    margin-top: 4px;
+}
+
+.spaceBelow {
+    margin-bottom: 4px;
+}
+
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity:0;
+        transform: scale(0.6);
+    }
+
+    100% {
+        opacity:100%;
+        transform: scale(1);
+    }
+}
+
+@keyframes fadeIn {
+    0% { opacity:0; }
+    100% { opacity:100%; }
+}
+
+/*********************************************/
+
+.hse_column {
+position:relative;
+}
+
+.help-tip-questionmark {
+    float: right;
+    margin: 0 auto 10px;
+    border: 1px solid #aaa;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+    padding: 0 3px;
+    background: #ccc;
+    cursor: pointer;
+    line-height: 1.1rem;
+    border-radius: 12px;
+    width: 22px;
+    height: 22px;
+}
+.help-tip-questionmark {
+    padding: 0 4px;
+}
+.tooltip h6 {
+    margin-top: 10px;
+}
+
+.video-area {
+    overflow: auto;
+    border: 1px solid #e0e0e0;
+    background-color: #777777;
+    padding: 20px;
+}
+
+/* Was like this
+#properties_panel {
+    float: right;
+    width: 320px;
+}
+*/
+
+#properties_panel {
+    width: 100%;
+}
+
+.divider {
+    border-top: 1px solid #d0d0d0;
+    border-bottom: 1px solid #ffffff;
+    margin: 10px 0;
+}
+
+.add-panel {
+    display: none;
+    border-left: 1px solid #f0f0f0;
+    border-bottom: 1px solid #f0f0f0;
+    border-right: 1px solid #f0f0f0;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 6px;
+    overflow: hidden;
+}
+
+/* I think this is from Sith */
+.add-panel {
+    font-size: 0.8rem;
+}
+
+/* I think from Sith */
+.add-panel table {
+    width: 100%;
+}
+
+/* I think from Sith */
+.add-panel tr {
+    width: 100%;
+}
+
+/* I think from Sith */
+#fileArea .btn{
+    font-size: 0.8rem;
+    padding: .3rem .8rem;
+}
+
+.qtr-panel {
+    float: left;
+    margin: 5px 5px 5px 0;
+    padding: 2px 3px;
+    text-align: right;
+    overflow: hidden;
+}
+
+#ad-type {
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+#working_area_noslider {
+    position: absolute;
+    z-index: 999;
+    display: none;
+    pointer-events: none;
+}
+
+#working_area {
+    position: absolute;
+    z-index: 999;
+    display: none;
+    pointer-events: none;
+}
+
+#banner_area {
+    position: absolute;
+    z-index: 999;
+    background-size: 100% 100%;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%; 
+    pointer-events: none; 
+}
+
+#banner_dragging_area {
+    position: absolute;
+    z-index: 999;
+    background-size: 100% 100%;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%; 
+    /*
+    height : -webkit-calc(100% - 36px);
+    height : -ms-calc(100% - 36px);
+    height : -moz-calc(100% - 36px);
+    height : -o-calc(100% - 36px);
+    height : calc(100% - 36px); 
+    */
+    /* display: none; */
+    pointer-events: none;
+}
+
+/* XYZXYZ
+#checkArea {
+    margin-top: 5px;
+    clear: both;
+    border: 1px solid #d0d0d0;
+    border-radius: 2px;
+    padding: 5px;
+}*/
+
+#fileArea {
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+    clear: both;
+    border: 1px solid #d0d0d0;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* from Sith ? */
+.ImageLabel {
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-family: arial;
+}
+
+#imageUrl {
+    width: 200px;
+}
+
+.imageSrcRow {
+    margin: 5px;
+}
+
+.imageSrcRow input[type=radio] {
+    margin-right: 10px;
+}
+
+#previewImage {
+    display: none;
+    max-width: 200px; !important;
+    /* width: 100%; */
+}
+
+.resize_repos_box_title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+    z-index: 1000;
+}
+
+.hotspot {
+    position: absolute;
+    border: 2px dashed white;
+    overflow: hidden;
+    opacity: 0.5;
+    cursor: pointer;
+    pointer-events: auto;
+
+    -webkit-animation: glowing 3000ms infinite;
+    -moz-animation: glowing 3000ms infinite;
+    -o-animation: glowing 3000ms infinite;
+    animation: glowing 3000ms infinite;
+}
+
+.hotspot.active {
+    opacity: 1;
+    border-color: yellow;
+}
+
+.hs_hotspot {
+    width: 150px;
+    height: 125px;
+}
+
+.hs_standard {
+    width: 234px;
+    height: 30px;
+}
+
+.hs_vertical {
+    width: 120px;
+    height: 200px;
+}
+
+.hotspot .title {
+    font-size: 13px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+}
+
+@-webkit-keyframes glowing {
+    0% {
+        background-color: rgba(0, 0, 0, 0.5)
+    }
+    50% {
+        background-color: rgba(128, 0, 0, 0.7)
+    }
+    100% {
+        background-color: rgba(0, 0, 0, 0.5)
+    }
+}
+
+@-moz-keyframes glowing {
+    0% {
+        background-color: rgba(0, 0, 0, 0.5)
+    }
+    50% {
+        background-color: rgba(128, 0, 0, 0.7)
+    }
+    100% {
+        background-color: rgba(0, 0, 0, 0.5)
+    }
+}
+
+@-o-keyframes glowing {
+    0% {
+        background-color: rgba(0, 0, 0, 0.5)
+    }
+    50% {
+        background-color: rgba(128, 0, 0, 0.7)
+    }
+    100% {
+        background-color: rgba(0, 0, 0, 0.5)
+    }
+}
+
+@keyframes glowing {
+    0% {
+        background-color: rgba(0, 0, 0, 0.5)
+    }
+    50% {
+        background-color: rgba(128, 0, 0, 0.7)
+    }
+    100% {
+        background-color: rgba(0, 0, 0, 0.5)
+    }
+}
+
+

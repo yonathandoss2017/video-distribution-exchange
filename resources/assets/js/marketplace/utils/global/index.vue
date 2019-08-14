@@ -1,0 +1,110 @@
+<template>
+
+</template>
+
+<script type="text/javascript">
+  let playlistType = [
+    {
+      name:'index.all',
+      typeId:'',
+      id:0,
+    },
+    {
+      //时政
+      name:'index.politics',
+      typeId:'politics',
+      id:1,
+    },{
+      //军事
+      name:'index.military',
+      typeId:'military',
+      id:2,
+    },{
+      //财经
+      name:'index.finance',
+      typeId:'finance',
+      id:3,
+    },{
+      //科技
+      name:'index.science',
+      typeId:'science',
+      id:4,
+    },{
+      //社会
+      name:'index.society',
+      typeId:'society',
+      id:5,
+    },{
+      //人物
+      name:'index.character',
+      typeId:'character',
+      id:6,
+    },{
+      //文化
+      name:'index.cultrue',
+      typeId:'cultrue',
+      id:7,
+    },{
+      //教育
+      name:'index.education',
+      typeId:'education',
+      id:8,
+    },{
+      //自然
+      name:'index.nature',
+      typeId:'nature',
+      id:9,
+    },{
+      //美食
+      name:'index.food',
+      typeId:'food',
+      id:10,
+    },{
+      //健康
+      name:'index.health',
+      typeId:'health',
+      id:11,
+    },{
+      //旅游
+      name:'index.tourism',
+      typeId:'travel',
+      id:12,
+    },{
+      //体育
+      name:'index.sports',
+      typeId:'sports',
+      id:13,
+    },{
+      //汽车
+      name:'index.automobile',
+      typeId:'automobile',
+      id:14,
+    },{
+      //娱乐：暂时未原创，等待hcl方确认
+      name:'index.entertainment',
+      typeId:'entertainment',
+      id:15,
+    },{
+      //其他
+      name:'index.others',
+      typeId:'others',
+      id:16,
+    },{
+      //cnc原创
+      name:'index.cncoriginal',
+      typeId:'cncoriginal',
+      id:17,
+    },
+  ]
+  let notReadCount = 0
+  export default
+  {
+//    rootUrl,
+    notReadCount,
+    playlistType
+  }
+</script>
+
+<style scoped>
+
+</style>

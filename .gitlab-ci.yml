@@ -1,0 +1,57 @@
+image: registry.gitlab.com/ucast-tv/content-exchange/ivx-china:v2.0
+
+services:
+  - mysql:5.7
+
+variables:
+  MYSQL_DATABASE: homestead
+  MYSQL_ROOT_PASSWORD: secret
+  DB_HOST: mysql
+  DB_USERNAME: root
+
+# This folder is cached between builds
+cache:
+  paths:
+  - vendor/
+  - node_modules/
+
+stages:
+  - test
+  - deploy_cnc_dev
+
+unit_test:
+  stage: test
+  script:
+    - cp .env.test .env
+    - cp phpunit.xml.staging phpunit.xml
+    - composer install
+    - php artisan key:generate
+    - php artisan migrate
+    - php artisan app:setup ''
+    - vendor/bin/phpunit -d memory_limit=512M
+  only:
+    - dev
+    - master
+    - cnc-dev
+    - cnc-master
+
+deploy_cnc_dev:
+  stage: deploy_cnc_dev
+  # Add the private SSH key to the build environment
+  script:
+    - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+    - eval $(ssh-agent -s)
+    - ssh-add <(echo "$SSH_PRIVATE_KEY")
+    - mkdir -p ~/.ssh
+    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n   
+    Host ivxch.staging\nHostname        47.100.51.170\nUser            root\nIdentityFile    ~/.ssh/id_rsa_ivxch_staging\n\n   
+    Host ivxch-node1\nHostname        172.16.254.1\nUser            root\nIdentityFile    ~/.ssh/id_rsa_ivxch_staging\nProxyCommand    ssh -W %h:%p ivxch.staging\n\n   
+    Host ivxch-node2\nHostname        172.16.254.2\nUser            root\nIdentityFile    ~/.ssh/id_rsa_ivxch_staging\nProxyCommand    ssh -W %h:%p ivxch.staging" > ~/.ssh/config'
+
+    # Run Envoy
+    - ~/.composer/vendor/bin/envoy run deploy --app=cnc
+  environment:
+    name: cnc-staging
+    url: https://cnctest.ivideocloud.cn/
+  only:
+    - dev

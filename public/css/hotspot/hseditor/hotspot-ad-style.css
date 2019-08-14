@@ -1,0 +1,333 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.video-container{
+    position: relative;
+    /* z-index: 999; */
+}
+
+.adv-1-style {
+    position: absolute;
+    cursor: pointer;
+}
+
+.adv-1-style-icon{
+    position: relative;
+    z-index: 99;
+    top: 0; 
+    left: 0; 
+    bottom: 0; 
+    right: 0; 
+}
+
+.adv-2-style {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 60%;
+    margin: auto;
+}
+
+.adv-2-style-content{
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.adv-2-style-contaner{
+    display: none;
+    top: 0;
+    bottom:0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position:absolute;
+    background: rgba(0,0,0,0.6);
+}
+
+.adv-2-style-close{
+    cursor: pointer;
+    position: absolute;
+    z-index: 9;
+    right: -10px;
+    top: -10px;
+    width: 26px;
+    height: 26px;
+    background-image: url("../../../images/hotspot/hseditor/ad_close.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: none;
+}
+.adv-2-style-pic{
+    width: auto;
+    max-height: 100%;
+    display: block;
+    cursor: pointer;
+    margin: 0 auto;
+}
+.adv-2-style-title{
+    position: relative;
+    width: 280px;
+    top: 0px;
+    background-color: white;
+    padding: 10px;
+    color: #A04527;
+    font-size: 20px;
+    z-index: 2;
+    display: none;
+}
+
+.adv-2-style-text-contanier{
+    position: relative;
+    width: 300px;
+    border-radius: 10px;
+    top: -13px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.8);
+    background-color: #EBEBEB;
+    display: none;
+}
+.adv-2-style-text{
+    position: relative;
+    top: 25px;
+    color: #323232;
+    font-size: 14px;
+    font-family: 'Helvetica Neue', '微软雅黑';
+    line-height: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.adv-2-style-btn{
+    position: relative;
+    left: 35%;
+    width: 30%;
+    font-size: 14px;
+    font-family: 'Helvetica Neue', '微软雅黑';
+    cursor: pointer;
+    text-align: center;
+    top: 35px;
+    color: white;
+    background-color: #EE534A;
+    line-height: 28px;
+    border-radius: 5px;
+}
+
+.adv-3-style-container{
+    position: absolute;
+    width:240px;
+    right: -245px;
+    top:0;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    overflow: auto;
+}
+
+.adv-3-style{
+    position: absolute;
+    width: 240px;
+    height: 400px;
+    top: 0;
+    bottom: 0;
+    margin:auto 0;
+}
+
+.adv-3-style-content{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.adv-3-style-pic{
+    width: 100%;
+    cursor: pointer;
+}
+.adv-3-style-text-contanier{
+    top: -3px;
+    width: 210px;
+    overflow: hidden;
+    font-size: 14px;
+    line-height: 20px;
+    padding-left: 15px;
+    padding-right: 10px;
+    background-color: black;
+    position: relative;
+}
+.adv-3-style-text{
+    color: white;
+    font-family: 'Helvetica Neue', '微软雅黑';
+}
+.adv-3-style-btn{
+    position: relative;
+    left: 31%;
+    cursor: pointer;
+    width: 40%;
+    font-family: 'Helvetica Neue', '微软雅黑';
+    text-align: center;
+    top: 20px;
+    color: white;
+    background-color: #EE534A;
+    line-height: 28px;
+    border-radius: 5px;
+}
+.adv-3-style-close{
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+    top: 20px;
+    width: 14px;
+    height: 14px;
+    background-image: url("../../../images/hotspot/hseditor/ad_close_default.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.adv-3-style-close:hover{
+    background-image: url("../../../images/hotspot/hseditor/ad_close_hover.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.cl-float {
+    clear: both;
+}
+
+.bg-black{
+    position: relative;
+    width: 100%;
+    height: 655px;
+    background-color: #292929;
+}
+
+.contanierq{
+    position: absolute;
+    width: 346px;
+    height: 633px;
+    left: 1030px;
+}
+
+/*.bottom{*/
+/*position: absolute;*/
+/*width: 100%;*/
+/*height: 1490px;*/
+/*background-image: url("../images/content.jpg");*/
+/*background-repeat: no-repeat;*/
+/*background-size: 100% 100%;*/
+/*top: 730px;*/
+/*}*/
+/*.title{*/
+/*position: absolute;*/
+/*width: 80%;*/
+/*left: 10%;*/
+/*height: 8.3755%;*/
+/*background-image: url("../images/title.png");*/
+/*background-repeat: no-repeat;*/
+/*background-size: 100% 100%;*/
+/*top: 730px;*/
+/*}*/
+
+.titlte-contanier{
+    position: relative;
+    width: 100%;
+}
+
+#indicator{
+    position:absolute;
+    top:50%;
+    width:200px;
+    height:200px;
+    background:#fff;
+    z-index:9999;
+}
+
+#ad1{
+    z-index:9999;
+}
+
+#ad2{
+    z-index: 10001;
+}
+
+#ads{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    overflow: hidden;
+    /*bottom:36px;
+    right:0;*/
+}
+
+.ads_hoverctrl{
+    height : -webkit-calc(100% - 0px);
+    height : -ms-calc(100% - 0px);
+    height : -moz-calc(100% - 0px);
+    height : -o-calc(100% - 0px);
+    height : calc(100% - 0px);
+}
+
+.ads_blockctrl{
+    height : -webkit-calc(100% - 36px);
+    height : -ms-calc(100% - 36px);
+    height : -moz-calc(100% - 36px);
+    height : -o-calc(100% - 36px);
+    height : calc(100% - 36px);
+}
+
+
+.contaniner{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+}
+
+.contaniner_hoverctrl{
+    height : -webkit-calc(100% - 0px);
+    height : -ms-calc(100% - 0px);
+    height : -moz-calc(100% - 0px);
+    height : -o-calc(100% - 0px);
+    height : calc(100% - 0px);
+}
+
+.contaniner_blockctrl{
+    height : -webkit-calc(100% - 36px);
+    height : -ms-calc(100% - 36px);
+    height : -moz-calc(100% - 36px);
+    height : -o-calc(100% - 36px);
+    height : calc(100% - 36px);
+}
+
+
+.edit-ad-contanier{
+    display: none;
+    position: absolute;
+    width: 50%;
+    background-color: #8DBAF3;
+    border-radius: 10px;
+    left: 25%;
+    z-index: 9999;
+    top: 30%;
+}
+
+a.icon-play,a.icon-pause{
+    z-index:10000;
+}
+
+#ad3out{
+    right: 0;
+}
+
+#ad3 .adv-3-style{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+#ad3out .adv-3-style{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
